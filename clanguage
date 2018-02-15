@@ -1,0 +1,9 @@
+main()
+{
+int x=2;y=3;
+sum = x+y;
+{
+print{ "%d", x+y}
+}
+}
+
